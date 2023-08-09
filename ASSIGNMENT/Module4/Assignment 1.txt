@@ -1,0 +1,17 @@
+10 Applications of CNN :
+
+10 real-time application of deep learning
+
+Real-Time Speech Recognition: Deep Learning is used in speech recognition systems like virtual assistants to transcribe spoken words into text in real-time.
+
+Language Translation: Deep Learning models, such as neural machine translation, enable real-time translation of text from one language to another.
+
+Real-Time Sentiment Analysis: Deep Learning models can quickly analyze and classify the sentiment of text data, allowing businesses to monitor customer feedback and respond promptly.
+
+Recommendation Systems: Deep Learning is used to build personalized recommendation systems in real-time, suggesting products, movies, or content to users based on their preferences and behavior.
+
+Automated Customer Support: Deep Learning-powered chatbots and conversational agents can provide real-time responses to customer queries and support requests.
+
+Real-Time Fraud Detection: Deep Learning models can quickly analyze transactions and detect fraudulent activities in financial systems.
+
+Autonomous Drones and Robots: Deep Learning is employed in the perception and decision-making systems of autonomous drones and robots, enabling them to navigate and interact with their environment in real-time.
